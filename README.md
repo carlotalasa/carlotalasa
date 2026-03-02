@@ -24,10 +24,14 @@
 
 <h3 align="left">📊 Most Used Languages:</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlotalasa&layout=compact&theme=dark" />
+<p><img align="left" src="https://readme-orcin-gamma.vercel.app/api/top-langs?username=carlotalasa&show_icons=true&locale=en&layout=compact&theme=dark" alt="carlotalasa" /></p>
+
+<br clear="both"/>
+
+---
 
 <h3 align="left">📈 GitHub Stats:</h3>
 
-<img src="https://github-stats.as93.net/api?username=carlotalasa&show_icons=true&theme=dark" />
+<p><img align="center" src="https://readme-orcin-gamma.vercel.app/api?username=carlotalasa&show_icons=true&locale=en&theme=dark" alt="carlotalasa" /></p>
 
-<img src="https://streak-stats.demolab.com/?user=carlotalasa&theme=dark" />
+<p><img align="center" src="https://streak-stats.demolab.com/?user=carlotalasa&theme=dark" alt="carlotalasa" /></p>
