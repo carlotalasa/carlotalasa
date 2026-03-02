@@ -22,16 +22,11 @@
 
 ---
 
-<h3 align="left">📊 Most Used Languages:</h3>
-
-<p><img align="left" src="https://readme-orcin-gamma.vercel.app/api/top-langs?username=carlotalasa&show_icons=true&locale=en&layout=compact&theme=dark" alt="carlotalasa" /></p>
 
 <br clear="both"/>
 
 ---
 
 <h3 align="left">📈 GitHub Stats:</h3>
-
-<p><img align="center" src="https://readme-orcin-gamma.vercel.app/api?username=carlotalasa&show_icons=true&locale=en&theme=dark" alt="carlotalasa" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=carlotalasa&theme=dark" alt="carlotalasa" /></p>
