@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Carlota Lasa</h1>
-
 <h3 align="center">Frontend Developer | Software Engineer</h3>
-
 <p align="center">Passionate about building modern web applications with React, Next.js, and TypeScript</p>
 
 ---
 
 - 🔭 I'm currently working on **Crazy Imagine Software**
-
 - 🌱 I'm currently learning **Nest.js**
-
 - 💬 Ask me about **Next.js, React.js, Javascript**
+- 🌐 Check out my portfolio at **[carlotalasa.vercel.app](https://carlotalasa.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/carlotalasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlotalasa" height="30" width="40" /></a>
+<a href="https://carlotalasa.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,5 +21,4 @@
 ---
 
 <h3 align="left">📈 GitHub Stats:</h3>
-
 <p><img align="center" src="https://streak-stats.demolab.com/?user=carlotalasa&theme=dark" alt="carlotalasa" /></p>
