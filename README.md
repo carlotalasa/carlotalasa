@@ -99,9 +99,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=carlotalasa&theme=tokyo-night&hide_border=true" alt="carlotalasa activity graph" />
-</p>
-
-<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlotalasa&layout=compact&theme=tokyonight&langs_count=6" alt="carlotalasa languages" />
 </p>
